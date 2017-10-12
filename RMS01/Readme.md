@@ -1,12 +1,13 @@
-
 # RMS01
 
-Simply asks for a password then compares it with the correct one, and displays a MessageBox. All in a loop.
+Simply asks for a password then compares it with the correct one, and displays a MessageBox. All in a loop.  
+Compiled by Microsoft Visual C++ 2010.
 
-Original Code:
+Original Code:  
 ![ScreenShot](https://raw.githubusercontent.com/Neosama/ReverseMySoft/master/RMS01/Original.PNG)
 
-Pseudo Code generate by IDA Pro 6.8:
+Pseudo Code generate by IDA Pro 6.8:  
 ![ScreenShot](https://raw.githubusercontent.com/Neosama/ReverseMySoft/master/RMS01/PseudoCode.PNG)
+
 
 This project is licensed under the GNU General Public License v3.0
